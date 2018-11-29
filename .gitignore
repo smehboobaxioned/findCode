@@ -1,0 +1,20 @@
+# OS or IDE folders/files to ignore
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+.cache
+.project
+.settings
+nbproject
+thumb.db
+Thumbs.db
+
+
+node-modules
+
+# Ignore node modules
+node_modules/
+.sass-cache/
